@@ -1,4 +1,5 @@
 Public class
 {
-    Console.Write("My example");    
+    Console.Write("My example");
+string casa = "Home";
 }
